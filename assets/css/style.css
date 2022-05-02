@@ -1,0 +1,13 @@
+h1
+{
+    background-color: steelblue;
+    text-align: center;
+    text-decoration: underline;
+
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
+.colors
+{
+    background-color: tomato;
+}
